@@ -1,2 +1,2 @@
 # Dart_Ref
-Learning Dart
+Dart = java + JavaScript
